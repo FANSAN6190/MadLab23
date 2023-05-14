@@ -1,2 +1,2 @@
 # MadLab23
-This repository is made for Collge App Development Project
+This repository is made for College App Development Project
